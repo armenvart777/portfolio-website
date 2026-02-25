@@ -1,25 +1,25 @@
-# Portfolio Website
+# Портфолио — Личный сайт
 
-My personal portfolio website built with vanilla HTML, CSS, and JavaScript.
+Персональный сайт-портфолио, написанный на чистом HTML, CSS и JavaScript.
 
-## Features
+## Возможности
 
-- Responsive design with mobile-first approach
-- Smooth scroll animations using Intersection Observer API
-- Dark theme with modern UI
-- CSS Grid layout for project cards and skills
-- No external dependencies
+- Адаптивный дизайн (мобильные + десктоп)
+- Плавные анимации при скролле (Intersection Observer API)
+- Тёмная тема с современным UI
+- CSS Grid для карточек проектов и навыков
+- Без внешних зависимостей
 
-## Tech Stack
+## Технологии
 
 - HTML5
 - CSS3 (Custom Properties, Grid, Flexbox)
 - JavaScript (ES6+)
 
-## Preview
+## Запуск
 
-Open `index.html` in your browser to view the portfolio.
+Откройте `index.html` в браузере.
 
-## License
+## Лицензия
 
 MIT
